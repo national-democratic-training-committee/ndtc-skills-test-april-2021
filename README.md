@@ -8,6 +8,7 @@ Use the Art Institute of Chicago's public API to fetch artwork results.
   - Public API and documentation: `https://api.artic.edu/docs/`
   - Public data dump: `https://github.com/art-institute-of-chicago/api-data`
 - Please include files for HTML, CSS, and JavaScript
+- Please use `localStorage` to cache image results.
 - Feel free to add vendor files in `js/vendor/` if needed.
 
 ## Fonts
