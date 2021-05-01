@@ -11,4 +11,4 @@ Use the Art Institute of Chicago's public API to fetch artwork results.
 - Feel free to add vendor files in `js/vendor/` if needed.
 
 ## Fonts
-NDTC uses Zilla Slab and Open Sans as our defualt fonts. 
+NDTC uses Zilla Slab and Open Sans as our default fonts. 
