@@ -9,7 +9,8 @@ Use the Art Institute of Chicago's public API to fetch artwork results.
   - Public API and documentation: `https://api.artic.edu/docs/`
   - Public data dump: `https://github.com/art-institute-of-chicago/api-data`
 - Include files for HTML, CSS, PHP (if applicable), and JavaScript
-- Use `localStorage` to cache image results.
+- Plan how would you implement caching in the frontend? in the backend?
+  - Implement backend API call caching strategy.
 - Feel free to add vendor files in `js/vendor/` if needed.
 
 ## Launch a PHP server from your terminal
@@ -19,4 +20,4 @@ php -S 127.0.0.1:8000
 ```
 
 ## A Note On Fonts
-NDTC uses Zilla Slab and Open Sans as our default fonts. 
+NDTC uses Google fonts Zilla Slab and Open Sans as our default fonts. 
