@@ -8,9 +8,15 @@ Use the Art Institute of Chicago's public API to fetch artwork results.
 - API information can be found here: 
   - Public API and documentation: `https://api.artic.edu/docs/`
   - Public data dump: `https://github.com/art-institute-of-chicago/api-data`
-- Please include files for HTML, CSS, and JavaScript
-- Please use `localStorage` to cache image results.
+- Include files for HTML, CSS, PHP (if applicable), and JavaScript
+- Use `localStorage` to cache image results.
 - Feel free to add vendor files in `js/vendor/` if needed.
 
-## Fonts
+## Launch a PHP server from your terminal
+```
+cd path/to/your/app
+php -S 127.0.0.1:8000
+```
+
+## A Note On Fonts
 NDTC uses Zilla Slab and Open Sans as our default fonts. 
