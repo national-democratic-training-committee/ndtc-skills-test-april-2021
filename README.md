@@ -14,7 +14,7 @@ Use the Art Institute of Chicago's public API to fetch artwork results.
 - Feel free to add vendor files in `js/vendor/` if needed.
 - How would you implement a server side proxy to the API using PHP? Feel free to use the built-in server or your framework of choice.
 
-Please create a fork of repo. When completed, reply to the skills test email with a link to your branch.
+Please create a fork of this repo. When completed, reply to the skills test email with a link to your branch.
 
 
 ## A Note On Fonts
