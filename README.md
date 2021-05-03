@@ -12,12 +12,8 @@ Use the Art Institute of Chicago's public API to fetch artwork results.
 - Plan how would you implement caching in the frontend? in the backend?
   - Implement backend API call caching strategy.
 - Feel free to add vendor files in `js/vendor/` if needed.
+- How would you implement a server side proxy to the API using PHP? Feel free to use the built-in server or your framework of choice.
 
-## Launch a PHP server from your terminal
-```
-cd path/to/your/app
-php -S 127.0.0.1:8000
-```
 
 ## A Note On Fonts
 NDTC uses Google fonts Zilla Slab and Open Sans as our default fonts. 
