@@ -13,7 +13,7 @@ Use the Art Institute of Chicago's public API to fetch artwork results.
   - Implement backend API call caching strategy.
 - Feel free to add vendor files in `js/vendor/` if needed.
 - Consider how would you implement a server side proxy to the API using PHP? Feel free to use the built-in server or your framework of choice.
-- Lastly, add appropraiate commenting to your code to help explain your process.
+- Lastly, add appropriate commenting to your code to help explain your process.
 
 Please create a fork of this repo. When completed, reply to the skills test email with a link to your branch.
 
